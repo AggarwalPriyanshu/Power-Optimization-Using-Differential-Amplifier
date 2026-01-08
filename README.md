@@ -35,26 +35,6 @@ The study emphasizes **numerical analysis, power dissipation reduction, and perf
 - Gain–Power Trade-off  
 - Low-Power Analog Design Techniques  
 
----
-
-## 📐 Design Equations
-
-### 🔹 Differential Gain
-\[
-A_d = g_m \times r_o
-\]
-
-### 🔹 Transconductance
-\[
-g_m = \frac{2I_D}{V_{GS} - V_{TH}}
-\]
-
-### 🔹 Power Dissipation
-\[
-P = V_{DD} \times I_{tail}
-\]
-
-These equations guided the design decisions and optimization process.
 
 ---
 
